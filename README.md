@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangglang&label=Profile%20views&color=0e75b6&style=flat" alt="mangglang" /> </p>
 
-- 🔭 I’m currently working on **a JS API project**
+- 🔭 I’m currently working on **a JS/React API Project**
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **JavaScript, React, TS and NextJS**
 
 - 💬 Ask me about **HTML, CSS, JS, etc.**
 
