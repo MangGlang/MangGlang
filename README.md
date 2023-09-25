@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mangglang" alt="mangglang" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **to implement a project that utilizes: Next.js, tailwindcss, react/redux/hooks, HTML, and JS.**
 
 - 💬 Ask me about **HTML, CSS, JS, etc.**
 
