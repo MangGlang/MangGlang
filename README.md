@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Minhlee Lam</h1>
-<h3 align="center">A fullstack developer from California</h3>
+<h3 align="center">A self-taught fullstack developer from California</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangglang&label=Profile%20views&color=0e75b6&style=flat" alt="mangglang" /> </p>
 
